@@ -3,8 +3,10 @@ body {
 	font-family: 'Helvetica', 'Arial', sans-serif;
 	font-size: 20px;
 	line-height: 30px;
-	background-color: ivory;
+	background-color: #FFFFE0;
 }
+
+/* header styles*/
 
 header {
 	background-color: darkred;
@@ -33,6 +35,8 @@ header img {
 	border: 12px solid gold;
 }
 
+/* main styles*/
+
 main {
 	max-width: 800px;
 	margin: 0 auto;
@@ -43,6 +47,9 @@ main img {
 	max-width: 100%;
 }
 
+
+/* anchor styles*/
+
 a {
 
 	color: darkred;
@@ -50,8 +57,10 @@ a {
 
 a:hover {
 	color: white;
-	background-color: darkred;
+	background-color: red;
 }
+
+/* footer styles*/
 
 footer {
 	background-color: darkred;
